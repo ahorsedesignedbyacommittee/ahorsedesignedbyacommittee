@@ -2,7 +2,7 @@
 - Rather a beginner in programming; I'm playing around with small projects in Python and C. 
 - Not enough to collaborate on 'real' software, but if someone finds my little projects of interest I'd be very glad about it!
 - I write my code mostly in Geany on a Windows 10 desktop (yes, you read that right)
-- For indentation I use tabs auto-converted to spaces (four per tab)
+- For indentation I use the Allman style and tabs auto-converted to spaces (four per tab stroke)
 
 <!---
 ahorsedesignedbyacommittee/ahorsedesignedbyacommittee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
